@@ -1,0 +1,206 @@
+.logo img{
+    width: 30px;
+}
+
+.navbar-brand{
+    margin-left: 5px;
+    margin-top: 4px;
+}
+
+form .avatar{
+    width: 35px;
+    height: 35px;
+}
+
+.navbar .container-avatar,
+.pub_image .container-avatar{
+
+    width: 35px;
+    height: 35px;    
+}
+
+.navbar .container-avatar img,
+.pub_image .container-avatar img {
+    height: 100%;
+    width: 100%;
+    border-radius: 100%;
+}
+
+.pub_image{
+    margin-bottom: 25px;
+}
+
+.pub_image .container-avatar{
+    float: left;
+    margin-right: 20px;
+}
+
+.pub_image .tarjeta .data-user{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.tarjeta{
+    float: left;      
+}
+
+.action-ver{
+    float: left;
+    position: absolute;
+    left: 90%;
+    top: 12px;
+}
+
+
+.detail{
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+.detail:hover{
+    color: gray;
+}
+
+.pub_image .nickname{
+    color: gray;
+}
+
+.date {
+    color: gray;
+}
+
+.image-container {
+    padding: 0;
+    width: 100%;
+    max-height: 100%;
+    overflow: hidden;
+}
+
+.image-container img, .card-body{
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.imageDes{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.description{
+    padding: 15px;
+    padding-bottom: 0;
+    padding-top: 10px;
+}
+
+.card-body form{
+    padding: 20px;
+}
+
+.btn-comments{ 
+    color: gray;
+    margin: 15px;
+    margin-top: 0;
+    border: 1px solid gray;
+}
+
+.btn-comments:hover{
+    border: 1px solid #ffffff;
+}
+
+.likes{
+    padding: 10px;
+    padding-bottom:0; 
+}
+
+.likes img{
+    width: 30px;
+}
+
+.comment{
+    margin-left: 25px;
+}
+
+.delete{
+    float: right;
+    margin-right: 15px;
+}
+
+.number_likes{
+    color: gray;
+    padding: 3px;
+    padding-top: 20px;
+    
+}
+
+.data-user-profile {
+    padding-bottom: 50px;
+}
+
+.data-user-profile .container-avatar{
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+
+.data-user-profile .container-avatar img{
+    border-radius: 100%;
+    height: 100%;
+    width: 100%; 
+}
+
+.info-user .text-profile,
+.alert-heading{
+    text-align: center;
+}
+
+.caja{
+    float: left; 
+    margin-left:15px;
+    margin-top: 10px;
+}
+
+.image-public img{
+    width: 110px;
+    height: 110px;
+}
+
+.page-link{
+    color: #000000;
+}
+
+.page-link:hover{
+    color: gray;
+}
+
+.page-item.active .page-link{
+    background-color: gray;
+    border-color: gray;
+}
+
+.btn-edicion{
+    width: 20px;
+    margin: 5px;
+}
+
+.btn-edicion:hover{
+    cursor: pointer;
+}
+
+.action{
+    float: left;
+    position: absolute;
+    left: 86%;
+    top: 12px;
+}
+
+.btn-ver{
+    width: 30px;
+}
+
+.person{
+    margin-top: 20px;
+}
